@@ -1,6 +1,6 @@
 # Home Server
 Click here to see my documentation of the home server journey:  
-[Home Server Documentation](https://alvin-cheung.gitbook.io/)
+[Home Server Documentation](https://docs.alvincheung.ca/)
 
 ![Picture of home server](./src/IMG_20220829_220534.jpg)
 
